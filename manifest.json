@@ -1,0 +1,12 @@
+{
+  "id": "/painel-mandato-wagner/",
+  "name": "Painel do Mandato | Wagner Tomaszewski",
+  "short_name": "Painel Mandato",
+  "description": "Painel Administrativo do Mandato do Vereador Wagner Tomaszewski",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#061c31",
+  "theme_color": "#061c31",
+  "lang": "pt-BR"
+}
